@@ -1,0 +1,8 @@
+{
+	"id":"HighFleetPortraits", # internal id
+	"name":"HighFleet Portrait Pack", # displayed to the player
+	"author":"Reynauld",
+	"version":"1.0",
+	"description":"Adds 16 portraits from the game Highfleet.",
+	"gameVersion":"0.95.1a-RC5",
+}
